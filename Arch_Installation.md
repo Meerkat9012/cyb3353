@@ -1,6 +1,7 @@
 
 To begin, a new VM was created from the Proxmox GUI:
-![[Pasted image 20261101235944.png]]
+<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/7abfe71d-ecee-441c-8b46-f4039b242c4f" />
+
 
 
 The following parameters were then selected before creating the VM:
