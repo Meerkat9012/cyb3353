@@ -1,4 +1,3 @@
-#Assignment #Documentation 
 
 To begin, a new VM was created from the Proxmox GUI:
 ![[Pasted image 20261101235944.png]]
